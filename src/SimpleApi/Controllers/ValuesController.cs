@@ -19,7 +19,7 @@ public class ValuesController : ControllerBase
     [HttpGet("{id}")]
     public ActionResult<string> Get(int id)
     {
-        return "Les Jackson";
+        return "Max Power";
     }
     
 }
